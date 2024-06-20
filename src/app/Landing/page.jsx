@@ -153,7 +153,7 @@ const Landing = () => {
                 <div className="col-lg-4 col-md-4 col-sm-6">
                   <div className="single-brand-item d-table">
                     <div className="d-table-cell text-center">
-                      <img src="/assets/img/brands/logo5.png" alt="" />
+                      <img src="/assets/img/brands/logo5.png" alt="logo5" />
                     </div>
                   </div>
                 </div>
@@ -215,7 +215,7 @@ const Landing = () => {
           <div className="row feature_inner">
             <div className="col-lg-3 col-md-6">
               <div className="feature_item">
-                <img src="/assets/img/services/s1.png" alt="" />
+                <img src="/assets/img/services/s1.png" alt="S1" />
                 <h4>Wp developing</h4>
                 <p>Is give may shall likeness made yielding spirit a itself toget created after sea
                   is in beast beginning signs open god you're gathering ithe</p>
@@ -223,7 +223,7 @@ const Landing = () => {
             </div>
             <div className="col-lg-3 col-md-6">
               <div className="feature_item">
-                <img src="/assets/img/services/s2.png" alt="" />
+                <img src="/assets/img/services/s2.png" alt="S2" />
                 <h4>Ui/ux design</h4>
                 <p>Is give may shall likeness made yielding spirit a itself toget created after sea
                   is in beast beginning signs open god you're gathering ithe</p>
@@ -231,7 +231,7 @@ const Landing = () => {
             </div>
             <div className="col-lg-3 col-md-6">
               <div className="feature_item">
-                <img src="/assets/img/services/s3.png" alt="" />
+                <img src="/assets/img/services/s3.png" alt="S3" />
                 <h4>Web design</h4>
                 <p>Is give may shall likeness made yielding spirit a itself toget created after sea
                   is in beast beginning signs open god you're gathering ithe</p>
@@ -275,9 +275,9 @@ const Landing = () => {
               <div className="col-lg-4 col-md-6 all web">
                 <div className="portfolio_box">
                   <div className="single_portfolio">
-                    <img className="img-fluid w-100" src="img/portfolio/p1.jpg" alt="" />
+                    <img className="img-fluid w-100" src="/assets/img/portfolio/p1.jpg" alt="" />
                     <div className="overlay"></div>
-                    <a href="img/portfolio/p1.jpg" className="img-gal"><div className="icon"><span className="lnr lnr-cross"></span></div></a>
+                    <a href="/assets/img/portfolio/p1.jpg" className="img-gal"><div className="icon"><span className="lnr lnr-cross"></span></div></a>
                   </div>
                   <div className="short_info">
                     <h4><a href="portfolio-details.html">2D Vinyl Design</a></h4>
@@ -288,9 +288,9 @@ const Landing = () => {
               <div className="col-lg-4 col-md-6 all ads">
                 <div className="portfolio_box">
                   <div className="single_portfolio">
-                    <img className="img-fluid w-100" src="img/portfolio/p2.jpg" alt="" />
+                    <img className="img-fluid w-100" src="/assets/img/portfolio/p2.jpg" alt="" />
                     <div className="overlay"></div>
-                    <a href="img/portfolio/p2.jpg" className="img-gal"><div className="icon"><span className="lnr lnr-cross"></span></div></a>
+                    <a href="/assets/img/portfolio/p2.jpg" className="img-gal"><div className="icon"><span className="lnr lnr-cross"></span></div></a>
                   </div>
                   <div className="short_info">
                     <h4><a href="portfolio-details.html">Creative Poster</a></h4>
@@ -301,9 +301,9 @@ const Landing = () => {
               <div className="col-lg-4 col-md-6 all graphics">
                 <div className="portfolio_box">
                   <div className="single_portfolio">
-                    <img className="img-fluid w-100" src="img/portfolio/p3.jpg" alt="" />
+                    <img className="img-fluid w-100" src="/assets/img/portfolio/p3.jpg" alt="" />
                     <div className="overlay"></div>
-                    <a href="img/portfolio/p3.jpg" className="img-gal"><div className="icon"><span className="lnr lnr-cross"></span></div></a>
+                    <a href="/assets/img/portfolio/p3.jpg" className="img-gal"><div className="icon"><span className="lnr lnr-cross"></span></div></a>
                   </div>
                   <div className="short_info">
                     <h4><a href="portfolio-details.html">Embosed Logo Design</a></h4>
@@ -314,9 +314,9 @@ const Landing = () => {
               <div className="col-lg-4 col-md-6 all web">
                 <div className="portfolio_box">
                   <div className="single_portfolio">
-                    <img className="img-fluid w-100" src="img/portfolio/p4.jpg" alt="" />
+                    <img className="img-fluid w-100" src="/assets/img/portfolio/p4.jpg" alt="" />
                     <div className="overlay"></div>
-                    <a href="img/portfolio/p4.jpg" className="img-gal"><div className="icon"><span className="lnr lnr-cross"></span></div></a>
+                    <a href="/assets/img/portfolio/p4.jpg" className="img-gal"><div className="icon"><span className="lnr lnr-cross"></span></div></a>
                   </div>
                   <div className="short_info">
                     <h4><a href="portfolio-details.html">3D Helmet Design</a></h4>
@@ -327,9 +327,9 @@ const Landing = () => {
               <div className="col-lg-4 col-md-6 all ads">
                 <div className="portfolio_box">
                   <div className="single_portfolio">
-                    <img className="img-fluid w-100" src="img/portfolio/p5.jpg" alt="" />
+                    <img className="img-fluid w-100" src="/assets/img/portfolio/p5.jpg" alt="" />
                     <div className="overlay"></div>
-                    <a href="img/portfolio/p5.jpg" className="img-gal"><div className="icon"><span className="lnr lnr-cross"></span></div></a>
+                    <a href="/assets/img/portfolio/p5.jpg" className="img-gal"><div className="icon"><span className="lnr lnr-cross"></span></div></a>
                   </div>
                   <div className="short_info">
                     <h4><a href="portfolio-details.html">2D Vinyl Design</a></h4>
@@ -340,9 +340,9 @@ const Landing = () => {
               <div className="col-lg-4 col-md-6 all graphics">
                 <div className="portfolio_box">
                   <div className="single_portfolio">
-                    <img className="img-fluid w-100" src="img/portfolio/p6.jpg" alt="" />
+                    <img className="img-fluid w-100" src="/assets/img/portfolio/p6.jpg" alt="" />
                     <div className="overlay"></div>
-                    <a href="img/portfolio/p6.jpg" className="img-gal"><div className="icon"><span className="lnr lnr-cross"></span></div></a>
+                    <a href="/assets/img/portfolio/p6.jpg" className="img-gal"><div className="icon"><span className="lnr lnr-cross"></span></div></a>
                   </div>
                   <div className="short_info">
                     <h4><a href="portfolio-details.html">3D Helmet Design</a></h4>
@@ -353,9 +353,9 @@ const Landing = () => {
               <div className="col-lg-4 col-md-6 all web">
                 <div className="portfolio_box">
                   <div className="single_portfolio">
-                    <img className="img-fluid w-100" src="img/portfolio/p7.jpg" alt="" />
+                    <img className="img-fluid w-100" src="/assets/img/portfolio/p7.jpg" alt="" />
                     <div className="overlay"></div>
-                    <a href="img/portfolio/p7.jpg" className="img-gal"><div className="icon"><span className="lnr lnr-cross"></span></div></a>
+                    <a href="/assets/img/portfolio/p7.jpg" className="img-gal"><div className="icon"><span className="lnr lnr-cross"></span></div></a>
                   </div>
                   <div className="short_info">
                     <h4><a href="portfolio-details.html">Creative Poster</a></h4>
@@ -366,9 +366,9 @@ const Landing = () => {
               <div className="col-lg-4 col-md-6 all web">
                 <div className="portfolio_box">
                   <div className="single_portfolio">
-                    <img className="img-fluid w-100" src="img/portfolio/p8.jpg" alt="" />
+                    <img className="img-fluid w-100" src="/assets/img/portfolio/p8.jpg" alt="" />
                     <div className="overlay"></div>
-                    <a href="img/portfolio/p8.jpg" className="img-gal"><div className="icon"><span className="lnr lnr-cross"></span></div></a>
+                    <a href="/assets/img/portfolio/p8.jpg" className="img-gal"><div className="icon"><span className="lnr lnr-cross"></span></div></a>
                   </div>
                   <div className="short_info">
                     <h4><a href="portfolio-details.html">Embosed Logo Design</a></h4>
@@ -379,9 +379,9 @@ const Landing = () => {
               <div className="col-lg-4 col-md-6 all ads">
                 <div className="portfolio_box">
                   <div className="single_portfolio">
-                    <img className="img-fluid w-100" src="img/portfolio/p9.jpg" alt="" />
+                    <img className="img-fluid w-100" src="/assets/img/portfolio/p9.jpg" alt="" />
                     <div className="overlay"></div>
-                    <a href="img/portfolio/p9.jpg" className="img-gal"><div className="icon"><span className="lnr lnr-cross"></span></div></a>
+                    <a href="/assets/img/portfolio/p9.jpg" className="img-gal"><div className="icon"><span className="lnr lnr-cross"></span></div></a>
                   </div>
                   <div className="short_info">
                     <h4><a href="portfolio-details.html">3D Helmet Design</a></h4>
@@ -396,106 +396,161 @@ const Landing = () => {
       {/* <!--================ End Portfolio Area =================--> */}
 
       {/* <!--================ Start Testimonials Area =================--> */}
-      <section className="testimonials_area section_gap">
-        <div className="container">
-          <div className="testi_slider owl-carousel">
-            <div className="item">
-              <div className="testi_item">
-                <img src="/assets/img/quote.png" alt="" />
-                <h4>Fanny Spencer</h4>
-                <ul className="list">
-                  <li><a href="#"><i className="fa fa-star"></i></a></li>
-                  <li><a href="#"><i className="fa fa-star"></i></a></li>
-                  <li><a href="#"><i className="fa fa-star"></i></a></li>
-                  <li><a href="#"><i className="fa fa-star"></i></a></li>
-                  <li><a href="#"><i className="fa fa-star"></i></a></li>
-                </ul>
-                <p>As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If you</p>
-              </div>
-            </div>
-            <div className="item">
-              <div className="testi_item">
-                <img src="/assets/img/quote.png" alt="" />
-                <h4>Fanny Spencer</h4>
-                <ul className="list">
-                  <li><a href="#"><i className="fa fa-star"></i></a></li>
-                  <li><a href="#"><i className="fa fa-star"></i></a></li>
-                  <li><a href="#"><i className="fa fa-star"></i></a></li>
-                  <li><a href="#"><i className="fa fa-star"></i></a></li>
-                  <li><a href="#"><i className="fa fa-star"></i></a></li>
-                </ul>
-                <p>As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If you</p>
-              </div>
-            </div>
-            <div className="item">
-              <div className="testi_item">
-                <img src="/assets/img/quote.png" alt="" />
-                <h4>Fanny Spencer</h4>
-                <ul className="list">
-                  <li><a href="#"><i className="fa fa-star"></i></a></li>
-                  <li><a href="#"><i className="fa fa-star"></i></a></li>
-                  <li><a href="#"><i className="fa fa-star"></i></a></li>
-                  <li><a href="#"><i className="fa fa-star"></i></a></li>
-                  <li><a href="#"><i className="fa fa-star"></i></a></li>
-                </ul>
-                <p>As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If you</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+      <div class="testimonial_area section_gap_bottom">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-8 text-center">
+					<div class="main_title">
+						<h2>client say about me</h2>
+						<p>Is give may shall likeness made yielding spirit a itself togeth created after sea is in beast <br/>
+							 beginning signs open god you're gathering ithe</p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="testi_slider owl-carousel">
+        			<div class="testi_item">
+        				<div class="row">
+        					<div class="col-lg-4">
+        						<img src="/assets/img/testimonials/t1.jpg" alt=""/>
+        					</div>
+        					<div class="col-lg-8">
+        						<div class="testi_text">
+        							<h4>Elite Martin</h4>
+									<p>Him, made can't called over won't there on divide there male fish beast own his day third seed sixth seas unto. Saw from </p>
+        						</div>
+        					</div>
+        				</div>
+        			</div>
+        			<div class="testi_item">
+        				<div class="row">
+        					<div class="col-lg-4">
+        						<img src="/assets/img/testimonials/t2.jpg" alt=""/>
+        					</div>
+        					<div class="col-lg-8">
+        						<div class="testi_text">
+        							<h4>Davil Saden</h4>
+									<p>Him, made can't called over won't there on divide there male fish beast own his day third seed sixth seas unto. Saw from </p>
+        						</div>
+        					</div>
+        				</div>
+        			</div>
+        			<div class="testi_item">
+        				<div class="row">
+        					<div class="col-lg-4">
+        						<img src="/assets/img/testimonials/t1.jpg" alt=""/>
+        					</div>
+        					<div class="col-lg-8">
+        						<div class="testi_text">
+        							<h4>Elite Martin</h4>
+									<p>Him, made can't called over won't there on divide there male fish beast own his day third seed sixth seas unto. Saw from </p>
+        						</div>
+        					</div>
+        				</div>
+        			</div>
+        			<div class="testi_item">
+        				<div class="row">
+        					<div class="col-lg-4">
+        						<img src="/assets/img/testimonials/t2.jpg" alt=""/>
+        					</div>
+        					<div class="col-lg-8">
+        						<div class="testi_text">
+        							<h4>Davil Saden</h4>
+									<p>Him, made can't called over won't there on divide there male fish beast own his day third seed sixth seas unto. Saw from </p>
+        						</div>
+        					</div>
+        				</div>
+        			</div>
+        			<div class="testi_item">
+        				<div class="row">
+        					<div class="col-lg-4">
+        						<img src="/assets/img/testimonials/t1.jpg" alt="" />
+        					</div>
+        					<div class="col-lg-8">
+        						<div class="testi_text">
+        							<h4>Elite Martin</h4>
+									<p>Him, made can't called over won't there on divide there male fish beast own his day third seed sixth seas unto. Saw from </p>
+        						</div>
+        					</div>
+        				</div>
+        			</div>
+        			<div class="testi_item">
+        				<div class="row"> 
+        					<div class="col-lg-4">
+        						<img src="/assets/img/testimonials/t2.jpg" alt=""/>
+        					</div>
+        					<div class="col-lg-8">
+        						<div class="testi_text">
+        							<h4>Davil Saden</h4>
+									<p>Him, made can't called over won't there on divide there male fish beast own his day third seed sixth seas unto. Saw from </p>
+        						</div>
+        					</div>
+        				</div>
+        			</div>
+        		</div>
+			</div>
+		</div>
+	</div>
       {/* <!--================ End Testimonials Area =================--> */}
 
-      {/* <!--================ Start Footer Area =================--> */}
-      <footer className="footer_area">
-        <div className="container">
-          <div className="row footer_inner">
-            <div className="col-lg-4 col-sm-6">
-              <aside className="f_widget ab_widget">
-                <div className="f_title">
-                  <h4>About Me</h4>
-                </div>
-                <ul>
-                  <li><a href="#">Terms & Conditions</a></li>
-                  <li><a href="#">Privacy Policy</a></li>
-                </ul>
-              </aside>
-            </div>
-            <div className="col-lg-4 col-sm-6">
-              <aside className="f_widget news_widget">
-                <div className="f_title">
-                  <h4>Newsletter</h4>
-                </div>
-                <p>Stay updated with our latest trends</p>
-                <div id="mc_embed_signup">
-                  <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=72f1d1f3e1e8b8657012d9ff4&id=2e6a7c985f" method="get" className="subscribe_form relative">
-                    <div className="input-group d-flex flex-row">
-                      <input name="EMAIL" placeholder="Enter email address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter email address '" required="" type="email" />
-                      <button className="btn sub-btn"><span className="lnr lnr-arrow-right"></span></button>
-                    </div>
-                    <div className="mt-10 info"></div>
-                  </form>
-                </div>
-              </aside>
-            </div>
-            <div className="col-lg-4">
-              <aside className="f_widget social_widget">
-                <div className="f_title">
-                  <h4>Follow Me</h4>
-                </div>
-                <p>Let us be social</p>
-                <ul className="list">
-                  <li><a href="#"><i className="fa fa-facebook"></i></a></li>
-                  <li><a href="#"><i className="fa fa-twitter"></i></a></li>
-                  <li><a href="#"><i className="fa fa-dribbble"></i></a></li>
-                  <li><a href="#"><i className="fa fa-behance"></i></a></li>
-                </ul>
-              </aside>
-            </div>
-          </div>
-        </div>
-      </footer>
-      {/* <!--================ End Footer Area =================--> */}
+      {/* <!--================ Start Newsletter Area =================--> */}
+	<section class="newsletter_area">
+		<div class="container">
+			<div class="row justify-content-center align-items-center">
+				<div class="col-lg-12">
+					<div class="subscription_box text-center">
+						<h2 class="text-uppercase text-white">get update from anywhere</h2>
+						<p class="text-white">
+							Bearing Void gathering light light his eavening unto dont afraid. 
+						</p>
+						<div class="subcribe-form" id="mc_embed_signup">
+							<form target="_blank" novalidate="true" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="subscription relative">
+								<input name="EMAIL" placeholder="Email address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email address'" required="" type="email" />
+								<div style={{position: "absolute", left: "-5000px"}}>
+									<input name="b_36c4fd991d266f23781ded980_aefe40901a" tabindex="-1" value="" type="text" />
+								</div>
+								<button class="primary-btn hover d-inline">Get Started</button>
+								<div class="info"></div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	{/* <!--================ End Newsletter Area =================--> */}
+
+	{/* <!--================Footer Area =================--> */}
+	<footer class="footer_area">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-12">
+					<div class="footer_top flex-column">
+						<div class="footer_logo">
+							<a href="#">
+								<img src="/assets/img/logo.png" alt="" />
+							</a>
+							<h4>Follow Me</h4>
+						</div>
+						<div class="footer_social">
+							<a href="#"><i class="fa fa-facebook"></i></a>
+							<a href="#"><i class="fa fa-twitter"></i></a>
+							<a href="#"><i class="fa fa-dribbble"></i></a>
+							<a href="#"><i class="fa fa-behance"></i></a>
+						</div>
+					</div>
+				</div>
+			</div>
+			{/* <div class="row footer_bottom justify-content-center">
+				<p class="col-lg-8 col-sm-12 footer-text"> */}
+					{/* <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --> */}
+{/* Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a> */}
+{/* <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --> */}
+{/* </p>
+			</div>*/}
+		</div> 
+	</footer>
+	{/* <!--================End Footer Area =================--> */}
 
 
       <Script src="/assets/js/jquery-3.2.1.min.js" strategy="beforeInteractive" />
